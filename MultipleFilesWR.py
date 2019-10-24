@@ -1,6 +1,8 @@
 import re
 '''
+
 CHECKINGAIM : PROGRAM TO SOLVE CAPTCHAS PROVIDED BY ZEND FRAMEWORK
+
 VARIABLES USED :avg,upper,lower,caprange,
 LISTS USED ARE :testcases,alphalist
 
